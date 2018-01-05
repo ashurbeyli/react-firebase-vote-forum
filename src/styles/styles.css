@@ -1,0 +1,6 @@
+.row{
+    padding: 15px;
+}
+.row .row{
+    padding: 0px;
+}
