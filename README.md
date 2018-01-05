@@ -5,6 +5,6 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Usage
 To run this project you need clone this repo and
-`cd react-firebase-vote-forum`
-`npm install`
+`cd react-firebase-vote-forum` then
+`npm install` then
 `npm start`
